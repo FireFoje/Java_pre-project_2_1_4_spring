@@ -1,5 +1,6 @@
 package app.config;
 
+import app.model.Dog;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
